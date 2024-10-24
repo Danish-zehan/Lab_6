@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorSecondaryVariant">#018786</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:windowBackground">@color/white</item> <!-- White background -->
+    </style>
+
+    <style name="Theme.Leanback" parent="AppTheme">
+        <!-- Customize your theme for Leanback -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@color/transparent</item>
+    </style>
+</resources>
