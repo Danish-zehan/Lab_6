@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Lab_6</string>
-
-        <string name="cat_image">Cat image</string> <!-- Add this line -->
-    </resources>
+    <string name="cat_image">Cat Image</string>
+</resources>
 
